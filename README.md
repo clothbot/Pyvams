@@ -5,10 +5,10 @@ Python Verilog-AMS Parser
 
 After initial cloning, update submodules
 
-'''
+```
   git submodule init
   git submodule update
-'''
+```
 
 # References
 
